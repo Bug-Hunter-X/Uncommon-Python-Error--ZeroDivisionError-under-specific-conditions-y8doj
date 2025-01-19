@@ -1,0 +1,1 @@
+This repository contains a simple Python example that highlights a potential error scenario. The `function_with_uncommon_error` function demonstrates a `ZeroDivisionError` that occurs only when the input `x` is 0. The solution demonstrates adding a simple conditional check to resolve this error. Feel free to use and modify the code to better understand the concept. 
